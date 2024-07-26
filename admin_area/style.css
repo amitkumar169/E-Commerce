@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 7%;
+    height: 7%;
+}
+.admin_img{
+    width: 100px;
+    object-fit: contain;
+} 
+/* .btn{
+    border-radius: 50%;
+    
+} */
+.footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}

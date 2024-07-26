@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.logo{
+    width: 7%;
+    height: 7%;
+}
+.card-img-top
+{
+    height: 250px;
+}
+.profile_img{
+        height: 100%;
+        width: 100%;
+}
+
+.custom-css{
+    overflow-y: clip;
+}
+
+.btn-outline-light{
+    padding: 0px 22px 0px 8px !important;
+}
